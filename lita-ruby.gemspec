@@ -3,9 +3,9 @@ Gem::Specification.new do |spec|
   spec.version       = "0.0.1"
   spec.authors       = ["Zac Stewart"]
   spec.email         = ["zgstewart@gmail.com"]
-  spec.description   = %q{TODO: Add a description}
-  spec.summary       = %q{TODO: Add a summary}
-  spec.homepage      = "TODO: Add a homepage"
+  spec.description   = %q{Allows to execute arbitrary Ruby in the context of the running lita instance.}
+  spec.summary       = %q{Allows to execute arbitrary Ruby in the context of the running lita instance.}
+  spec.homepage      = "https://github.com/bignerdranch/lita-ruby"
   spec.license       = "MIT"
   spec.metadata      = { "lita_plugin_type" => "handler" }
 
